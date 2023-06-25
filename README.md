@@ -10,7 +10,7 @@ As a proactive and reliable individual, I strive for excellence in everything I 
 
 With a solid foundation in Python programming, I am well-equipped to tackle complex data analysis, develop web applications, and explore the exciting world of machine learning. My goal is to utilize my knowledge and skills to contribute to meaningful projects that make a positive impact.
 
-I am excited about the opportunity to collaborate with like-minded professionals and continue my journey of continuous learning and growth. Let's connect and explore new possibilities together!
+I am excited about the opportunity to collaborate with like-minded professionals and continue my journey of continuous learning and growth. 
 
 ## Skills
 ![Python Logo](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
